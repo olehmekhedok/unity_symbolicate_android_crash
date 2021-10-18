@@ -1,0 +1,3 @@
+symbols=C:\symbols-release1\armeabi-v7a\libil2cpp.so
+callStack=C:\callStack.txt
+addr2line=C:\Program Files\Unity\Hub\...\arm-linux-androideabi-addr2line.exe

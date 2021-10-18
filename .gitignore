@@ -19,14 +19,12 @@ mono_crash.*
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
-[Rr]elease/
 [Rr]eleases/
 x64/
 x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
-[Bb]in/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
@@ -350,3 +348,5 @@ MigrationBackup/
 .ionide/
 SymbolicateAndroidCrash/SymbolicateAndroidCrash.sln
 SymbolicateAndroidCrash/SymbolicateAndroidCrash/SymbolicateAndroidCrash.csproj
+SymbolicateAndroidCrash/SymbolicateAndroidCrash/bin/Release/netcoreapp3.1/SymbolicateAndroidCrash.deps.json
+SymbolicateAndroidCrash/SymbolicateAndroidCrash/bin/Release/netcoreapp3.1/SymbolicateAndroidCrash.runtimeconfig.dev.json
